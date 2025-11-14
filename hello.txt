@@ -1,0 +1,21 @@
+git config --global user.name "SERGEY"
+git config --global user.email "sarancew@yandex.ru"
+git config -–list
+git init
+Привет, Git!
+git add hello.txt
+git commit -m "Исходник hello.txt"
+git commit -m "Обновлен hello.txt"
+Добавил новую строку
+git status
+git log
+git branch feature
+git branch main
+git checkout feature
+git checkout main
+git branch --list
+git branch --list
+git log --oneline
+git checkout main
+git checkout main
+git merge feature
